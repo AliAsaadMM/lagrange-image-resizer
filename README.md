@@ -54,7 +54,7 @@ lagrange-image-resizer/
 Requires **Python 3.9+** and `tkinter` (included with standard Python installations on Windows and macOS).
 
 ```bash
-git clone [https://github.com/AliAsaadMM/lagrange-image-resizer.git](https://github.com/AliAsaadMM/lagrange-image-resizer.git)
+git clone https://github.com/AliAsaadMM/lagrange-image-resizer.git
 cd lagrange-image-resizer
 pip install -r requirements.txt
 ```
